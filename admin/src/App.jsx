@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url = 'https://full-stack-5xa3.onrender.com'
+  const url = "https://full-stack-5xa3.onrender.com"
 
   return (
     <div>
