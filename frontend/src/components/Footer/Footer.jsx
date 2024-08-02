@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='footer-content'>
             <div className='footer-content-left'>
                 <img src={assets.logo} alt=''></img>
-                <p>Hi, I'm Pooja Sawant, and welcome to FlavourFly! Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time. At Tomato, we're not just delivering food, we're delivering happiness. Life’s too short for boring meals, lett's make it a delicious adventure!</p>
+                <p>Hi, I'm Pooja Sawant, and welcome to FlavourFly! Our mission is to satisfy your cravings and elevate your dining experience, one delicious meal at a time. At FlavourFly, we're not just delivering food, we're delivering happiness. Life’s too short for boring meals, lett's make it a delicious adventure!</p>
                 <div className='footer-social-icons'>
                     <img src={assets.facebook_icon} alt='' />
                     <img src={assets.twitter_icon} alt='' />
