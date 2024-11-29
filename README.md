@@ -12,16 +12,19 @@ A comprehensive MERN stack (MongoDB, Express, React, Node.js) food delivery plat
 - **Live Notifications:** Get instant updates on actions via Toastify alerts.
 - **Responsive Design:** The app is designed to be fully responsive and accessible on all screen sizes.
 
+
 ## 🧑‍💻 Admin Features
 
 - **Manage Inventory:** Add, edit, and remove food items.
 - **Order Processing:** Update order status and track user purchases.
 - **Analytics Dashboard:** Access key insights into app usage and order trends.
 
+
 ## 🌟 Additional Highlights
 - **Responsive Design:** Optimized for all devices with Tailwind CSS.
 - **API Integration:** Dynamic data flow between frontend and backend using Axios.
 - **Secure Payments:** Integrated Stripe API for secure online payments.
+
 
 ## 🌐 Live Demo
 Explore the live version here:
@@ -42,12 +45,6 @@ Explore the live version here:
 | **Toastify**     | Library for toast notifications.             |
 | **Render**       | Deployment platform for the application.     |
 
-
-Frontend:
-
-- **React.js:** JavaScript library used to build the user interface with a component-based structure.
-- **Material-UI:** React component library that provides pre-built components to speed up UI development.
-- **GSAP:** JavaScript library for creating high-performance animations to bring the algorithms to life.
 
 
 ## 🚀 Getting Started
@@ -70,9 +67,11 @@ Start by cloning the repository to your local machine:
    cd Full-Stack
    ```
 
+
 ## 2️⃣ Install Dependencies
 
   🔧 Backend
+
   Navigate to the backend directory:
   
    ```bash
@@ -87,6 +86,7 @@ Start by cloning the repository to your local machine:
    ```
 
    3️⃣ Configure Environment Variables
+   
    Create a .env file in the backend folder with the following keys:
    
    Backend (/backend/.env)
@@ -119,7 +119,7 @@ Start by cloning the repository to your local machine:
 
 Authentication
 
-| HTTP Method | Endpoint          | Description                     | Authentication Required |
+|HTTP Method | Endpoint          | Description                     | Authentication Required |
 |-------------|-------------------|---------------------------------|-------------------------|
 | `POST`      | `/api/auth/login` | Login a user                    | No                      |
 | `POST`      | `/api/auth/register` | Register a new user             | No                      |
@@ -128,7 +128,7 @@ Authentication
 
 Food Management
 
-| HTTP Method | Endpoint              | Description                     | Authentication Required |
+|HTTP Method | Endpoint              | Description                     | Authentication Required |
 |-------------|-----------------------|---------------------------------|-------------------------|
 | `GET`       | `/api/foods`          | Get a list of all food items    | No                      |
 | `POST`      | `/api/foods`          | Add a new food item             | Yes                     |
@@ -139,7 +139,7 @@ Food Management
 
 Orders Endpoints
 
-| HTTP Method | Endpoint               | Description                       | Authentication Required |
+|HTTP Method | Endpoint               | Description                       | Authentication Required |
 |-------------|------------------------|-----------------------------------|-------------------------|
 | `POST`      | `/api/orders`          | Create a new order                | Yes                     |
 | `GET`       | `/api/orders`          | Get a list of user orders         | Yes                     |
@@ -166,12 +166,3 @@ Contributions are welcome! Follow these steps to contribute:
   5. Open a pull request.
   
 
-## Steps to Contribute:
-
--  Fork the repository to your GitHub account.  
--  Create a new branch for the feature or bug fix you are working on.  
--  Make the necessary changes and commit them. 
--  Push your changes to your forked repository.  
--  Open a pull request with a description of the changes you've made.
-   
-  
