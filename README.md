@@ -5,7 +5,7 @@ A comprehensive MERN stack (MongoDB, Express, React, Node.js) food delivery plat
 
 ## 🚀 User Features
 
-- **User Authentication:** : Secure user registration and login with JWT tokens.
+- **User Authentication:** Secure user registration and login with JWT tokens.
 - **Browse Menus:** View a wide variety of food items categorized by type.
 - **Order Management:** Add items to the cart, update quantities, and place orders.
 - Choose from Stripe payments or Cash on Delivery.
